@@ -12,7 +12,7 @@ A simple and fun Tic Tac Toe game where you can play against a friend or an AI.
 
 1. **Clone the repository:**
    ```bash
-   [git clone](https://github.com/Sayak4g/Tic-tac-toe-game.git)
+    git clone https://github.com/Sayak4g/Tic-tac-toe-game.git
    ```
 
 2. **Open the HTML file in your web browser:**
