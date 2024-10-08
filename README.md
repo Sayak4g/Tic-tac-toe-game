@@ -1,9 +1,3 @@
-# Tic-tac-toe-game
-A simple tic tac toe game
-Sure! Here’s a simplified version of the README for your Tic Tac Toe game:
-
----
-
 # Tic Tac Toe Game
 
 A simple and fun Tic Tac Toe game where you can play against a friend or an AI.
